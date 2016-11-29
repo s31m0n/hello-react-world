@@ -5,7 +5,7 @@ class Message extends Component {
   render() {
     return (
 
-        <p>WASSSSSSSSSUUUUUUPPPPP </p> 
+        <p>ACTUAL EDITS </p> 
 
     );
   }

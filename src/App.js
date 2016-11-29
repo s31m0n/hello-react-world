@@ -16,8 +16,7 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
 
-
-        <p>sadwadsa says </p>  <Message /><Message /><Message /><Message />
+        <p>Seimon says </p>  <Message /><Message /><Message /><Message />
         <h2>It is {new Date().toLocaleTimeString()}.</h2>
       </div>
     );
